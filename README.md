@@ -1,5 +1,11 @@
 # Tmux conf
 
+## Create symbolic link
+
+```
+ln -s tmux-conf/.tmux.conf ~/.tmux.conf
+```
+
 ## Prepare
 ### Install reattach-to-user-namespace
 Install reattach-to-user-namespace
